@@ -1,3 +1,3 @@
 # leahgaeta.github.io
 
-Here's the readme for right now. I will update when the remodeling is done! (Hopefully by Winter 2024 - 2025.)
+Personal site last updated 2024-12-20.
