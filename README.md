@@ -1,3 +1,3 @@
 # leahgaeta.github.io
 
-Personal site last updated 2024-12-20.
+Personal site last updated 2025-01-13.
