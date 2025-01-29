@@ -1,3 +1,3 @@
-# leahgaeta.github.io
+## Leah T. Gaeta Homepage Repository
 
-Personal webpage for Leah T. Gaeta. This was last updated 2025-01-27.
+Repository for the homepage of Leah T. Gaeta. Last updated 2025-01-29.
